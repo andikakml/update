@@ -17,7 +17,7 @@ jobs:
         - name: Run script 
           run: |
             echo " " >> README.md
-            git config user.name "yukiinon"
+            git config user.name "andikakml"
             git config user.email "andikakamaluddin1@gmail.com"
             git add README.md
             git commit -m "Always blue!"
